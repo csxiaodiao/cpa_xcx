@@ -1,0 +1,22 @@
+<config>
+{
+  "usingComponents": {
+    "author": "../components/author.mina"
+  }
+}
+</config>
+
+<style>
+</style>
+
+<template>
+  <view>
+    Hi <author />!
+  </view>
+  
+</template>
+
+<script>
+Page({
+})
+</script>

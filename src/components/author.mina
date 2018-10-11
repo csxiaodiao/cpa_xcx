@@ -1,0 +1,15 @@
+<config>
+{
+  "component": true
+}
+</config>
+
+<template>
+  <view> xiaodiao </view>
+</template>
+
+<script>
+Component({
+
+})
+</script>
